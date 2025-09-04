@@ -40,6 +40,8 @@ I enjoy working in teams where people share ideas openly, and I learn a lot from
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-5C2D91?style=for-the-badge&logo=none&logoColor=white)  
+
 
 ---
 
