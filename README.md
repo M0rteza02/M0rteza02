@@ -1,7 +1,7 @@
-## Hi there 👋
 
-<!--
-# 👋 Hi, I’m Morteza – Computer Engineering Graduate
+
+
+## 👋 Hi, I’m Morteza – Computer Engineering Graduate
 
 ---
 
