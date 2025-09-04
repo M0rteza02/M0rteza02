@@ -1,15 +1,12 @@
-
-
-
 ## 👋 Hi, I’m Morteza – Computer Engineering Graduate
 
 ---
 
 ## 🌟 About Me
-I am a recent graduate from **Linköping University** with a **B.Sc. in Computer Engineering**.  
-Curious by nature and driven by problem-solving, I thrive in environments where I can learn new technologies, collaborate with others, and turn complex challenges into elegant solutions.  
+I recently graduated from **Linköping University** with a **B.Sc. in Computer Engineering**, and I’m especially curious about how technology shapes the world of finance.  
+Over the past few years, I’ve discovered that I really enjoy combining my technical skills with my interest in financial systems, whether it’s building reliable backends, working with data, or exploring how algorithms and software can improve decision-making.  
 
-I am especially motivated to keep growing as a developer and contribute to projects that make a real impact.
+I enjoy working in teams where people share ideas openly, and I learn a lot from tackling complex problems together. My mindset is hands-on, curious, and persistent, and I like to break big challenges into smaller parts and work through them carefully.  
 
 ---
 
@@ -21,23 +18,46 @@ I am especially motivated to keep growing as a developer and contribute to proje
 ---
 
 ## 🛠️ Technical Skills
-**Programming Languages:** C++, Python, C, C#, Java, JavaScript, SQL, Assembly  
-**Frameworks & Libraries:** Unity, .NET, React, Node.js, Flask  
-**Tools & Technologies:** Git/GitHub, Docker, Azure, Linux, CI/CD, QEMU, GDB, Valgrind  
+
+**Programming Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=none&logoColor=white)
+
+**Frameworks & Libraries**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
 ## 📌 Highlighted Projects 
-- 🌐 [Twidder Web App](https://github.com/your-username/twidder-webapp) – full-stack social networking platform with Python, SQL & async JS.  
-- 🧵 [Pintos OS Enhancements](https://github.com/your-username/pintos-os) – kernel-level development in C: syscalls, memory management, and threading.  
-- 🎮 [Donkey Kong C++ Game]([https://github.com/your-username/cpp-donkeykong](https://github.com/M0rteza02/Donkey-Kong)) – SDL-based 2D arcade game using OOP and CI/CD.  
-- 🕹️ [Sorry Zombies (Unity)](https://github.com/your-username/sorry-zombies-unity) – 3D third-person shooter with AI-driven enemies in Unity/C#.  
-- 🔌 [Space Race (Microcontroller)](https://github.com/your-username/mcu-space-race) – classic arcade game implemented in Assembly on embedded hardware.  
+- 🌐 [Twidder Web App](https://github.com/M0rteza02/Donkey-Kong) – full-stack social networking platform with Python, SQL & async JS.  
+- 🧵 [Pintos OS Enhancements](https://github.com/M0rteza02/Operativsystem-Pintos) – kernel-level development in C: syscalls, memory management, and threading.  
+- 🎮 [Donkey Kong C++ Game]((https://github.com/M0rteza02/Donkey-Kong)) – SDL-based 2D arcade game using OOP and CI/CD.  
+- 🕹️ [Sorry Zombies (Unity)](https://github.com/M0rteza02/Sorry-zombie-Unity) – 3D third-person shooter with AI-driven enemies in Unity/C#.  
+- 🔌 [Space Race (Microcontroller)](https://github.com/M0rteza02/Space-Race) – classic arcade game implemented in Assembly on embedded hardware.  
 
 ---
 
 ## 🎯 Career Goal
-I am actively seeking a full-time role as a **Junior Software Developer / Backend Engineer / Systems Developer** where I can apply my skills, learn from experienced professionals, and contribute to building reliable, impactful software solutions.
+I am actively seeking a full-time role as a **Junior/Intern Software Engineer / Backend Engineer / Systems Developer** where I can apply my skills, learn from experienced professionals, and contribute to building reliable software solutions.
 
 ---
 
