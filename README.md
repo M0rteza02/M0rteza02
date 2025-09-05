@@ -55,7 +55,7 @@ I enjoy working in teams where people share ideas openly, and I learn a lot from
 ---
 
 ## 🎯 Career Goal
-I am actively seeking a full-time role as a **Junior/Intern Software Engineer / Backend Engineer / Systems Developer** where I can apply my skills, learn from experienced professionals, and contribute to building reliable software solutions.
+I am actively seeking a full-time role as a **Junior/Intern Software Engineer / Systems Developer** where I can apply my skills and learn from experienced professionals.
 
 ---
 
