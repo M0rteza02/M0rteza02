@@ -6,7 +6,7 @@
 I recently graduated from **Linköping University** with a **B.Sc. in Computer Engineering**, and I’m especially curious about how technology shapes the world of finance.  
 Over the past few years, I’ve discovered that I really enjoy combining my technical skills with my interest in financial systems, whether it’s building reliable backends, working with data, or exploring how algorithms and software can improve decision-making.  
 
-I enjoy working in teams where people share ideas openly, and I learn a lot from tackling complex problems together. My mindset is hands-on, curious, and persistent, and I like to break big challenges into smaller parts and work through them carefully.  
+I enjoy working in teams where people share ideas openly, and I learn a lot from tackling complex problems together. My mindset is curious and persistent, and I like to break big challenges into smaller parts and work through them carefully.  
 
 ---
 
