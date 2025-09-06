@@ -11,7 +11,7 @@ I enjoy working in teams where people share ideas openly, and I learn a lot from
 ---
 
 ## 💡 Mindset & Soft Skills
-- 🔍 **Curiosity** – Always motivated to explore and learn new tools and technologies that help me build solutions that are more robust, efficient, and scalable, especially in areas like data-driven systems where reliability truly matters.
+- 🔍 **Curiosity** – Always motivated to explore and learn new tools and technologies that help me build solutions that are more  efficient and scalable, especially in areas like data-driven systems where reliability truly matters.
 - 🤝 **Teamwork** – I’ve worked in settings where collaboration is key, from pair programming to team sprints, but I also enjoy taking initiative and driving tasks forward on my own when needed.
 - 🚀 **Growth mindset** – I see challenges as chances to learn and improve. I also enjoy discussing my solutions with others to get new perspectives and make the final result even stronger.
 ---
