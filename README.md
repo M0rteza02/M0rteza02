@@ -5,7 +5,7 @@
 ## 🌟 About Me
 I recently graduated from **Linköping University** with a **B.Sc. in Computer Engineering**.
 
-I enjoy working in teams where people share ideas openly, and I learn a lot from tackling complex problems together. My mindset is curious and persistent, and I like to break big challenges into smaller parts and work through them carefully.  
+I enjoy working in teams where people share ideas openly, and I learn a lot from solving problems collaboratively. My mindset is curious and persistent, and I like to break big problems into smaller parts and work through them carefully.  
 
 
 ## 📫 Contact Me
